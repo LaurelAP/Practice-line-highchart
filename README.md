@@ -7,6 +7,8 @@ https://handsondataviz.github.io/highcharts-line-annotated/
 
 Sample data from the World Bank, https://databank.worldbank.org/source/world-development-indicators
 
+https://laurelap.github.io/Practice-line-highchart/
+
 ## Create your own 
 See chapter 10: Chartjs and Highcharts templates in [Hands-On Data Visualization](https://handsondataviz.org) by Jack Dougherty and Ilya Ilyankou.
 
